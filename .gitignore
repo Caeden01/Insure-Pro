@@ -1,0 +1,13 @@
+.env
+.jac/
+node_modules/
+investigation.log
+investigation_debug.log
+investigation_progress.json
+investigation_stop.flag
+investigation_history/
+package-lock.json
+__pycache__/
+*.pyc
+insure final.pptx
+Screenshot*
